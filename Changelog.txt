@@ -1,0 +1,5 @@
+0.1.0
+
+2018-11-28  Brecht Sanders  https://github.com/brechtsanders/
+
+  * initial release
